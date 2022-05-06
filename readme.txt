@@ -1,4 +1,4 @@
-#How to run it on Windows
+#HowtorunitonWindows
 
  need download node.js first
  
