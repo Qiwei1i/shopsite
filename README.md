@@ -18,3 +18,5 @@
  type npm install and wait
  
  type npm start to open the website
+ 
+ ![Image discription](https://github.com/Qiwei1i/img-storage/blob/main/shopsite.png)
