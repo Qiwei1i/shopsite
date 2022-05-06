@@ -1,0 +1,46 @@
+.clothes-list {
+    display: flex;
+    flex-direction: row;
+    gap: 12px;
+    flex-wrap: wrap;
+}
+.clothes-card {
+    display: flex;
+    flex-direction: column;
+    border: solid 1px #333;
+    padding: 8px;
+}
+.clothes-card-image img {
+    width: 240px;
+    height: 240px;
+}
+.clothes-card-info {
+    display: flex;
+    flex-direction: column;
+}
+.clothes-card-info .clothes-card-info-title {
+    font-weight: bold;
+}
+.clothes-card-info .clothes-card-info-description {
+    font-size: 12px;
+}
+.clothes-card-info .clothes-card-info-price {
+    font-size: 14px;
+    color:crimson;
+}
+.clothes-card-info .clothes-card-info-price::first-letter {
+    font-size: 18px;
+    font-weight: bold;
+}
+.clothes-detail {
+    display: flex;
+    flex-direction: column;
+}
+.clothes-detail .clothes-title {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-end;
+    color: #333;
+    line-height: 24px;
+}

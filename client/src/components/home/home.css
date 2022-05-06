@@ -1,0 +1,36 @@
+.brand-title {
+    text-orientation: upright;
+    writing-mode: vertical-rl;
+    font-size: 24px;
+}
+.brand-title + a:first-of-type {
+    border-left: solid 1px #333;
+}
+.brand-grid {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 12px;
+    justify-content: flex-end;
+    border-bottom: dotted 12px #666;
+    margin-bottom: 24px;
+    padding-bottom: 24px;
+
+}
+.brand-grid:hover {
+    background-color:azure;
+}
+.brand-grid + .brand-grid:hover {
+    background-color: beige;
+}
+.brand-grid + .brand-grid + .brand-grid:hover {
+    background-color:mistyrose;
+}
+.brand-clothes-image {
+    border-bottom: solid 1px #333;
+    border-right: solid 1px #333;
+}
+.brand-clothes-image img {
+    width: 240px;
+    height: 240px;
+}

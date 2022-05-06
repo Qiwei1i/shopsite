@@ -1,0 +1,526 @@
+[
+    {
+      "id": 1,
+      "name": "1960s",
+      "description": "1960s",
+      "brand": "FAKEONE",
+      "category": "fashion",
+      "adaptfor": [
+        "women"
+      ],
+      "pictures": [
+        "1960s1.png",
+        "1960s2.png",
+        "1960s3.png"
+      ],
+      "price": 1201
+    },
+    {
+      "id": 2,
+      "name": "aimanac",
+      "description": "aimanac",
+      "brand": "NEWSTAR",
+      "category": "fashion",
+      "adaptfor": [
+        "men",
+        "women"
+      ],
+      "pictures": [
+        "aimanac1.jpg",
+        "aimanac2.jpg",
+        "aimanac3.png"
+      ],
+      "price": 393
+    },
+    {
+      "id": 3,
+      "name": "blocks",
+      "description": "blocks",
+      "brand": "LI-NING",
+      "category": "fashion",
+      "adaptfor": [
+        "men"
+      ],
+      "pictures": [
+        "blocks1.jpg",
+        "blocks2.jpg",
+        "blocks3.png"
+      ],
+      "price": 252
+    },
+    {
+      "id": 4,
+      "name": "chimpanzee",
+      "description": "chimpanzee",
+      "brand": "FAKEONE",
+      "category": "fashion",
+      "adaptfor": [
+        "women"
+      ],
+      "pictures": [
+        "chimpanzee1.jpg",
+        "chimpanzee2.jpg",
+        "chimpanzee3.png"
+      ],
+      "price": 961
+    },
+    {
+      "id": 5,
+      "name": "chinesechar",
+      "description": "chinesechar",
+      "brand": "NEWSTAR",
+      "category": "fashion",
+      "adaptfor": [
+        "men",
+        "women"
+      ],
+      "pictures": [
+        "chinesechar1.jpg",
+        "chinesechar2.jpg",
+        "chinesechar3.png"
+      ],
+      "price": 981
+    },
+    {
+      "id": 6,
+      "name": "chinesewhite",
+      "description": "chinesewhite",
+      "brand": "LI-NING",
+      "category": "fashion",
+      "adaptfor": [
+        "men"
+      ],
+      "pictures": [
+        "chinesewhite1.jpg",
+        "chinesewhite2.jpg",
+        "chinesewhite3.png"
+      ],
+      "price": 1319
+    },
+    {
+      "id": 7,
+      "name": "cloud",
+      "description": "cloud",
+      "brand": "FAKEONE",
+      "category": "fashion",
+      "adaptfor": [
+        "women"
+      ],
+      "pictures": [
+        "cloud1.jpg",
+        "cloud2.jpg",
+        "cloud3.png"
+      ],
+      "price": 1198
+    },
+    {
+      "id": 8,
+      "name": "craneandtiger",
+      "description": "craneandtiger",
+      "brand": "NEWSTAR",
+      "category": "fashion",
+      "adaptfor": [
+        "men",
+        "women"
+      ],
+      "pictures": [
+        "craneandtiger1.jpg",
+        "craneandtiger2.jpg",
+        "craneandtiger3.png"
+      ],
+      "price": 217
+    },
+    {
+      "id": 9,
+      "name": "dashboard",
+      "description": "dashboard",
+      "brand": "LI-NING",
+      "category": "fashion",
+      "adaptfor": [
+        "men"
+      ],
+      "pictures": [
+        "dashboard1.jpg",
+        "dashboard2.jpg",
+        "dashboard3.png"
+      ],
+      "price": 2156
+    },
+    {
+      "id": 10,
+      "name": "deer",
+      "description": "deer",
+      "brand": "FAKEONE",
+      "category": "fashion",
+      "adaptfor": [
+        "women"
+      ],
+      "pictures": [
+        "deer1.jpg",
+        "deer2.jpg",
+        "deer3.png"
+      ],
+      "price": 1202
+    },
+    {
+      "id": 11,
+      "name": "extends",
+      "description": "extends",
+      "brand": "NEWSTAR",
+      "category": "fashion",
+      "adaptfor": [
+        "men",
+        "women"
+      ],
+      "pictures": [
+        "extends1.jpg",
+        "extends2.jpg",
+        "extends3.png"
+      ],
+      "price": 1994
+    },
+    {
+      "id": 12,
+      "name": "goldencup",
+      "description": "goldencup",
+      "brand": "LI-NING",
+      "category": "fashion",
+      "adaptfor": [
+        "men"
+      ],
+      "pictures": [
+        "goldencup1.jpg",
+        "goldencup2.jpg",
+        "goldencup3.png"
+      ],
+      "price": 1694
+    },
+    {
+      "id": 13,
+      "name": "gravity",
+      "description": "gravity",
+      "brand": "FAKEONE",
+      "category": "fashion",
+      "adaptfor": [
+        "women"
+      ],
+      "pictures": [
+        "gravity1.jpg",
+        "gravity2.jpg",
+        "gravity3.png"
+      ],
+      "price": 2331
+    },
+    {
+      "id": 14,
+      "name": "gross",
+      "description": "gross",
+      "brand": "NEWSTAR",
+      "category": "fashion",
+      "adaptfor": [
+        "men",
+        "women"
+      ],
+      "pictures": [
+        "gross1.jpg",
+        "gross2.jpg",
+        "gross3.png"
+      ],
+      "price": 2766
+    },
+    {
+      "id": 15,
+      "name": "handring",
+      "description": "handring",
+      "brand": "LI-NING",
+      "category": "fashion",
+      "adaptfor": [
+        "men"
+      ],
+      "pictures": [
+        "handring1.jpg",
+        "handring2.jpg",
+        "handring3.png"
+      ],
+      "price": 809
+    },
+    {
+      "id": 16,
+      "name": "holy",
+      "description": "holy",
+      "brand": "FAKEONE",
+      "category": "fashion",
+      "adaptfor": [
+        "women"
+      ],
+      "pictures": [
+        "holy1.jpg",
+        "holy2.jpg",
+        "holy3.png"
+      ],
+      "price": 2416
+    },
+    {
+      "id": 17,
+      "name": "laser",
+      "description": "laser",
+      "brand": "NEWSTAR",
+      "category": "fashion",
+      "adaptfor": [
+        "men",
+        "women"
+      ],
+      "pictures": [
+        "laser1.jpg",
+        "laser2.jpg",
+        "laser3.png"
+      ],
+      "price": 341
+    },
+    {
+      "id": 18,
+      "name": "logo",
+      "description": "logo",
+      "brand": "LI-NING",
+      "category": "fashion",
+      "adaptfor": [
+        "men"
+      ],
+      "pictures": [
+        "logo1.jpg",
+        "logo2.jpg",
+        "logo3.png"
+      ],
+      "price": 1884
+    },
+    {
+      "id": 19,
+      "name": "mass",
+      "description": "mass",
+      "brand": "FAKEONE",
+      "category": "fashion",
+      "adaptfor": [
+        "women"
+      ],
+      "pictures": [
+        "mass1.jpg",
+        "mass2.jpg",
+        "mass3.png"
+      ],
+      "price": 295
+    },
+    {
+      "id": 20,
+      "name": "mount",
+      "description": "mount",
+      "brand": "NEWSTAR",
+      "category": "fashion",
+      "adaptfor": [
+        "men",
+        "women"
+      ],
+      "pictures": [
+        "mount1.jpg",
+        "mount2.jpg",
+        "mount3.png"
+      ],
+      "price": 604
+    },
+    {
+      "id": 21,
+      "name": "muscle",
+      "description": "muscle",
+      "brand": "LI-NING",
+      "category": "fashion",
+      "adaptfor": [
+        "men"
+      ],
+      "pictures": [
+        "muscle1.jpg",
+        "muscle2.jpg",
+        "muscle3.png"
+      ],
+      "price": 884
+    },
+    {
+      "id": 22,
+      "name": "nationalpark",
+      "description": "nationalpark",
+      "brand": "FAKEONE",
+      "category": "fashion",
+      "adaptfor": [
+        "women"
+      ],
+      "pictures": [
+        "nationalpark1.jpg",
+        "nationalpark2.jpg",
+        "nationalpark3.png"
+      ],
+      "price": 1390
+    },
+    {
+      "id": 23,
+      "name": "newspaper",
+      "description": "newspaper",
+      "brand": "NEWSTAR",
+      "category": "fashion",
+      "adaptfor": [
+        "men",
+        "women"
+      ],
+      "pictures": [
+        "newspaper1.jpg",
+        "newspaper2.jpg",
+        "newspaper3.png"
+      ],
+      "price": 1668
+    },
+    {
+      "id": 24,
+      "name": "oldphoto",
+      "description": "oldphoto",
+      "brand": "LI-NING",
+      "category": "fashion",
+      "adaptfor": [
+        "men"
+      ],
+      "pictures": [
+        "oldphoto1.jpg",
+        "oldphoto2.jpg",
+        "oldphoto3.png"
+      ],
+      "price": 521
+    },
+    {
+      "id": 25,
+      "name": "park",
+      "description": "park",
+      "brand": "FAKEONE",
+      "category": "fashion",
+      "adaptfor": [
+        "women"
+      ],
+      "pictures": [
+        "park1.jpg",
+        "park2.jpg",
+        "park3.png"
+      ],
+      "price": 2672
+    },
+    {
+      "id": 26,
+      "name": "pedestrian",
+      "description": "pedestrian",
+      "brand": "NEWSTAR",
+      "category": "fashion",
+      "adaptfor": [
+        "men",
+        "women"
+      ],
+      "pictures": [
+        "pedestrian1.jpg",
+        "pedestrian2.jpg",
+        "pedestrian3.png"
+      ],
+      "price": 2312
+    },
+    {
+      "id": 27,
+      "name": "redflag",
+      "description": "redflag",
+      "brand": "LI-NING",
+      "category": "fashion",
+      "adaptfor": [
+        "men"
+      ],
+      "pictures": [
+        "redflag1.jpg",
+        "redflag2.jpg",
+        "redflag3.png"
+      ],
+      "price": 1707
+    },
+    {
+      "id": 28,
+      "name": "strip",
+      "description": "strip",
+      "brand": "FAKEONE",
+      "category": "fashion",
+      "adaptfor": [
+        "women"
+      ],
+      "pictures": [
+        "strip1.jpg",
+        "strip2.jpg",
+        "strip3.png"
+      ],
+      "price": 301
+    },
+    {
+      "id": 29,
+      "name": "toobig",
+      "description": "toobig",
+      "brand": "NEWSTAR",
+      "category": "fashion",
+      "adaptfor": [
+        "men",
+        "women"
+      ],
+      "pictures": [
+        "toobig1.jpg",
+        "toobig2.jpg",
+        "toobig3.png"
+      ],
+      "price": 1111
+    },
+    {
+      "id": 30,
+      "name": "torch",
+      "description": "torch",
+      "brand": "LI-NING",
+      "category": "fashion",
+      "adaptfor": [
+        "men"
+      ],
+      "pictures": [
+        "torch1.jpg",
+        "torch2.jpg",
+        "torch3.png"
+      ],
+      "price": 1647
+    },
+    {
+      "id": 31,
+      "name": "unity",
+      "description": "unity",
+      "brand": "FAKEONE",
+      "category": "fashion",
+      "adaptfor": [
+        "women"
+      ],
+      "pictures": [
+        "unity1.jpg",
+        "unity2.jpg",
+        "unity3.png"
+      ],
+      "price": 2552
+    },
+    {
+      "id": 32,
+      "name": "zelda",
+      "description": "zelda",
+      "brand": "NEWSTAR",
+      "category": "fashion",
+      "adaptfor": [
+        "men",
+        "women"
+      ],
+      "pictures": [
+        "zelda1.jpg",
+        "zelda2.jpg",
+        "zelda3.png"
+      ],
+      "price": 1367
+    }
+  ]
+  

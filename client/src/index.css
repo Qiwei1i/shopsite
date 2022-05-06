@@ -1,0 +1,163 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+}
+a {
+    text-decoration: none;
+    color: #333;
+}
+a:hover {
+    color: cadetblue;
+}
+input {
+    border: solid 1px #333;
+    border-radius: 0px;
+    padding: 6px 12px;
+}
+table {
+    width: 100%;
+    border: solid 1px #333;
+}
+table thead tr th {
+    text-align: right;
+    border: dashed 1px #333;
+}
+table tbody tr td {
+    text-align: right;
+    border: dashed 1px #333;
+}
+#root, .page {
+    width: 97%;
+    height: 100%;
+    min-width: 375px;
+    margin: 0 auto;
+}
+.page {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+.page .page-body {
+    flex: 1;
+}
+.button-primary {
+    background-color: cadetblue;
+    color: aliceblue;
+    padding: 6px 12px;
+    border: solid 1px #333;
+}
+.button-primary:hover {
+    background-color: aquamarine;
+    color: #333;
+}
+.button-secondary {
+    background-color: darkkhaki;
+    color: aliceblue;
+    padding: 6px 12px;
+    border: solid 1px #333;
+}
+.button-secondary:hover {
+    background-color: khaki;
+    color: #333;
+}
+.header {
+    width: 100%;
+    height: 96px;
+    min-height: 96px;
+    border-bottom: solid 1px #333;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 12px;
+}
+.header-logonav, .header-profile, .header-loginuser {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 12px;
+}
+.header-logonav {
+    flex: 1;
+}
+.header-logo::before {
+    content: '♠';
+}
+.header-logonav nav {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+nav.header-navbar a:first-of-type {
+    color:darkcyan;
+}
+nav.header-navbar a:first-of-type:before {
+    content: 'λ';
+}
+nav.header-navbar a:first-of-type:hover {
+    color:cyan;
+}
+nav.header-navbar a:first-of-type + a {
+    color: crimson;
+}
+nav.header-navbar a:first-of-type + a:before {
+    content: 'ξ';
+}
+nav.header-navbar a:first-of-type + a:hover {
+    color: hotpink;
+}
+.header-searchbar {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex: 1;
+}
+.header-searchbar input[type='text'] {
+    flex: 1;
+}
+.header-searchbar input[type='text'] + button {
+    font-weight: bold;
+}
+.header-loginuser a + div {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#signin {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#signout {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.signin-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 24px;
+    width: 50%;
+    height: 50%;
+    margin: auto;
+}
+.signin-form input {
+    font-size: 12px;
+    width: 100%;
+    height: 24px;
+}
+.signin-form input[type='password'] + button {
+    width: 180px;
+    height: 32px;
+}
+.footer {
+    width: 100%;
+    min-height: 48px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border-top: solid 1px #333;
+}
+.footer div:first-child {
+    color: #333;
+}
