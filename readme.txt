@@ -1,6 +1,6 @@
 #HowtorunitonWindows
 
- need download node.js first
+ #need download node.js first
  
  open cmd
  
