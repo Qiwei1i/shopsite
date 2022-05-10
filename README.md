@@ -4,7 +4,7 @@
 This is the shopping website desigened based on react.js and node.js, users can check the shirt's information and add them in the cart.
 
 ## Main language
-Html, Css, JavaScript, React.js, Node.js
+Html, Css, JavaScript, Python, React.js, Node.js
 
 ## How to run it on Windows
 
