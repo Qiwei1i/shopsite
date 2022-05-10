@@ -1,5 +1,12 @@
 # shopsite
-# How to run it on Windows
+
+## Main Feature
+This is the shopping website desigened based on react.js and node.js, users can check the shirt's information and add them in the cart.
+
+## Main language
+Html, Css, JavaScript, React.js, Node.js
+
+## How to run it on Windows
 
  download node.js first
  
@@ -19,4 +26,5 @@
  
  type npm start to open the website
  
+ ## How it looks like
  ![Image discription](https://github.com/Qiwei1i/img-storage/blob/main/shopsite.png)
