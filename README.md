@@ -6,6 +6,12 @@ This is the shopping website desigened based on react.js and node.js, users can 
 ## Main language
 Html, Css, JavaScript, Python, React.js, Node.js
 
+ ## Requirement
+ 1. Users can host it on a localhost.
+ 2. There shouldn't be any in the browser console.
+ 3. Must use CSS extensively.
+ 4. Minimum HTML pages is 1.
+
 ## How to run it on Windows
 
  download node.js first
